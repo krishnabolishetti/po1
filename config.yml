@@ -1,0 +1,10 @@
+title: My Site
+theme: jekyll-theme-primer
+
+exclude:
+  - src/components/
+  - src/pages/
+  - node_modules/
+  - dist/
+  - package.json
+  - package-lock.json
